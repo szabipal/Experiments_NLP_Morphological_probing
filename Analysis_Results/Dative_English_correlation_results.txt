@@ -1,0 +1,9 @@
+Spearman Correlation Analysis for Dative (English):
+F1-Score: -0.2347
+Precision: 0.3357
+Recall: -0.2254
+
+Wilcoxon Signed-Rank Test (relative differences):
+F1-Score p-value: 1.0000e+00
+Precision p-value: 8.9844e-01
+Recall p-value: 1.0000e+00

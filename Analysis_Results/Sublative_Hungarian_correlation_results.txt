@@ -1,0 +1,9 @@
+Spearman Correlation Analysis for Sublative (Hungarian):
+F1-Score: 0.3077
+Precision: 0.5289
+Recall: 0.3800
+
+Wilcoxon Signed-Rank Test (relative differences):
+F1-Score p-value: 8.9844e-01
+Precision p-value: 8.3105e-01
+Recall p-value: 7.2058e-01

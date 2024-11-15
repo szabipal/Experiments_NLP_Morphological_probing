@@ -1,0 +1,9 @@
+Spearman Correlation Analysis for Dative (Hungarian):
+F1-Score: -0.4126
+Precision: -0.4343
+Recall: -0.3099
+
+Wilcoxon Signed-Rank Test (relative differences):
+F1-Score p-value: 8.9844e-01
+Precision p-value: 9.6582e-01
+Recall p-value: 9.6582e-01

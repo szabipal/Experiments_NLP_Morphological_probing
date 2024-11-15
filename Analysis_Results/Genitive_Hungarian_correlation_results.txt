@@ -1,0 +1,9 @@
+Spearman Correlation Analysis for Genitive (Hungarian):
+F1-Score: -0.1576
+Precision: -0.2137
+Recall: -0.1135
+
+Wilcoxon Signed-Rank Test (relative differences):
+F1-Score p-value: 8.3105e-01
+Precision p-value: 7.6465e-01
+Recall p-value: 8.5895e-01

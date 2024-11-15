@@ -1,0 +1,9 @@
+Spearman Correlation Analysis for Genitive (English):
+F1-Score: -0.4825
+Precision: -0.2448
+Recall: -0.5644
+
+Wilcoxon Signed-Rank Test (relative differences):
+F1-Score p-value: 7.6465e-01
+Precision p-value: 1.0000e+00
+Recall p-value: 4.7525e-01

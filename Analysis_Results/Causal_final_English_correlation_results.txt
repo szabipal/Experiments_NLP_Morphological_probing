@@ -1,0 +1,9 @@
+Spearman Correlation Analysis for Causal_final (English):
+F1-Score: -0.5990
+Precision: -0.3328
+Recall: -0.5614
+
+Wilcoxon Signed-Rank Test (relative differences):
+F1-Score p-value: 7.9886e-01
+Precision p-value: 7.2128e-01
+Recall p-value: 8.7832e-01

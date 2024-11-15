@@ -1,0 +1,9 @@
+Spearman Correlation Analysis for Translative (English):
+F1-Score: -0.1608
+Precision: 0.2727
+Recall: -0.3604
+
+Wilcoxon Signed-Rank Test (relative differences):
+F1-Score p-value: 9.6582e-01
+Precision p-value: 7.6465e-01
+Recall p-value: 1.0000e+00

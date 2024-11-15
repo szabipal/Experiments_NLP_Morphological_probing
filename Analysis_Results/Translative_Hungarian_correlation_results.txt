@@ -1,0 +1,9 @@
+Spearman Correlation Analysis for Translative (Hungarian):
+F1-Score: 0.0560
+Precision: 0.2032
+Recall: -0.0035
+
+Wilcoxon Signed-Rank Test (relative differences):
+F1-Score p-value: 5.7715e-01
+Precision p-value: 7.0020e-01
+Recall p-value: 6.3770e-01

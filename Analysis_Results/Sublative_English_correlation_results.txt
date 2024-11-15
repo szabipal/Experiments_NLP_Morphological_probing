@@ -1,0 +1,9 @@
+Spearman Correlation Analysis for Sublative (English):
+F1-Score: 0.1296
+Precision: 0.1506
+Recall: 0.0670
+
+Wilcoxon Signed-Rank Test (relative differences):
+F1-Score p-value: 7.2128e-01
+Precision p-value: 6.4646e-01
+Recall p-value: 6.0983e-01

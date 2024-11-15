@@ -1,0 +1,9 @@
+Spearman Correlation Analysis for Causal_final (Hungarian):
+F1-Score: -0.6783
+Precision: -0.4196
+Recall: -0.6737
+
+Wilcoxon Signed-Rank Test (relative differences):
+F1-Score p-value: 5.7715e-01
+Precision p-value: 4.6484e-01
+Recall p-value: 9.1876e-01

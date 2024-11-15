@@ -1,0 +1,9 @@
+Spearman Correlation Analysis for Accusative (Hungarian):
+F1-Score: -0.0140
+Precision: -0.0350
+Recall: -0.1226
+
+Wilcoxon Signed-Rank Test (relative differences):
+F1-Score p-value: 9.6582e-01
+Precision p-value: 6.3770e-01
+Recall p-value: 9.6582e-01

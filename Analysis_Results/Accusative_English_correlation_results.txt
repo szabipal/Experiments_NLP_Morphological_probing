@@ -1,0 +1,9 @@
+Spearman Correlation Analysis for Accusative (English):
+F1-Score: 0.2937
+Precision: -0.0947
+Recall: 0.4311
+
+Wilcoxon Signed-Rank Test (relative differences):
+F1-Score p-value: 4.6484e-01
+Precision p-value: 9.6582e-01
+Recall p-value: 7.0020e-01
