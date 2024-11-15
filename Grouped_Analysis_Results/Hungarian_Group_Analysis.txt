@@ -1,0 +1,10 @@
+Spearman Correlation Matrix for F1 Scores (Hungarian):
+[[1.         0.08391608 0.40280272]
+ [0.08391608 1.         0.15061319]
+ [0.40280272 0.15061319 1.        ]]
+
+Wilcoxon Test between Accusative and Dative (F1 Score) p-value: 3.3936e-01
+Wilcoxon Test between Accusative and Genitive (F1 Score) p-value: 4.6973e-01
+Wilcoxon Test between Dative and Genitive (F1 Score) p-value: 7.9102e-01
+
+Friedman Test for all markers (F1 Score) p-value: 4.7237e-01

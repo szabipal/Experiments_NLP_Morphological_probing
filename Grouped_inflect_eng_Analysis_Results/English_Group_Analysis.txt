@@ -1,0 +1,4 @@
+Spearman Correlation Matrix for F1 Scores (English):
+0.12280701754385967
+
+Wilcoxon Test between Plural and VerbConjugation (F1 Score) p-value: 6.2207e-01

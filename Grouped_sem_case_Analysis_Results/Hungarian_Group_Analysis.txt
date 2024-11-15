@@ -1,0 +1,10 @@
+Spearman Correlation Matrix for F1 Scores (Hungarian):
+[[ 1.          0.17863425 -0.09106844]
+ [ 0.17863425  1.         -0.16783217]
+ [-0.09106844 -0.16783217  1.        ]]
+
+Wilcoxon Test between Translative and Sublative (F1 Score) p-value: 9.6973e-01
+Wilcoxon Test between Translative and Causal_final (F1 Score) p-value: 2.3340e-01
+Wilcoxon Test between Sublative and Causal_final (F1 Score) p-value: 3.4180e-02
+
+Friedman Test for all markers (F1 Score) p-value: 4.9787e-02

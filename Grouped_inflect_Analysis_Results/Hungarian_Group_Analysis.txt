@@ -1,0 +1,4 @@
+Spearman Correlation Matrix for F1 Scores (Hungarian):
+0.026126315238146257
+
+Wilcoxon Test between Plural and VerbConjugation (F1 Score) p-value: 1.4648e-03

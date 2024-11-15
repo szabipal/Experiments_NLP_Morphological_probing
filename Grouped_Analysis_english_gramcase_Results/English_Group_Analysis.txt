@@ -1,0 +1,10 @@
+Spearman Correlation Matrix for F1 Scores (English):
+[[ 1.          0.25919479 -0.29370629]
+ [ 0.25919479  1.         -0.39229482]
+ [-0.29370629 -0.39229482  1.        ]]
+
+Wilcoxon Test between Accusative and Dative (F1 Score) p-value: 5.6934e-01
+Wilcoxon Test between Accusative and Genitive (F1 Score) p-value: 9.2773e-03
+Wilcoxon Test between Dative and Genitive (F1 Score) p-value: 2.0361e-01
+
+Friedman Test for all markers (F1 Score) p-value: 7.5522e-02
